@@ -20,3 +20,16 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/permission_run_command_label"
         android:protectionLevel="dangerous" />
+<uses-permission android:name="android.permission.ACCESS>
+    <uses-permission android:name="android.permission.INTERN>
+    <uses-permission android:name="android.permission.WRITE_>
+    <uses-permission android:name="android.permission.WAKE_L>
+    <uses-permission android:name="android.permission.VIBRAT>
+    <uses-permission android:name="android.permission.FOREGR>
+    <uses-permission android:name="android.permission.REQUES>
+    <uses-permission android:name="android.permission.SYSTEM>
+    <uses-permission android:name="android.permission.READ_L>
+    <uses-permission android:name="android.permission.DUMP" >
+    <uses-permission android:name="android.permission.WRITE_>
+    <uses-permission android:name="android.permission.REQUES>
+    <uses-permission android:name="android.permission.PACKAG>
